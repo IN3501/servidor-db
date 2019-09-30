@@ -1,6 +1,7 @@
 # Administrador base datos - IN3501
 
-Programa creado para realizar queries en lenguaje SQL para el curso IN305. En la imagen _modelo_er.png_ se encuentra el modelo entidad relacion de la base de datos utilizada
+Programa creado para realizar queries en lenguaje SQL para el curso IN305. 
+En la imagen **modelo_er.pn** se encuentra el modelo entidad relacion de la base de datos utilizada
 
 ### Prerequisitos
 
@@ -25,7 +26,7 @@ Para iniciar el programa debes ejecutar:
 python queries.py
 ```
 
-Ahora ya puedes ejecutar consultas SQL:
+Ahora ya puedes ejecutar consultas SQL.
 
 Ingresa:
 
