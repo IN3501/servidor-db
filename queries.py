@@ -10,9 +10,12 @@ while(True):
 		query = input()
 		ans = c.execute(query)
 		descriptions = []
-		for value in ans.description:
-			descriptions.append(value[0])
-		print(tabulate(ans.fetchall(), headers=descriptions))
+		if(ans.description):
+			for value in ans.description:
+				descriptions.append(value[0])
+			print(tabulate(ans.fetchall(), headers=descriptions))
+		else:
+			print("OK")
 	except Exception as e:
 		print("----------")
 		print("Error:")
