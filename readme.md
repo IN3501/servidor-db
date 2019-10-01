@@ -1,7 +1,8 @@
 # Administrador base datos - IN3501
 
 Programa creado para realizar queries en lenguaje SQL para el curso IN305. 
-En la imagen **modelo_er.pn** se encuentra el modelo entidad relacion de la base de datos utilizada
+
+En la imagen **modelo_er.png** se encuentra el modelo entidad relacion de la base de datos utilizada
 
 ### Prerequisitos
 
