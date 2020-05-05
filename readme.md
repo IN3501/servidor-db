@@ -13,7 +13,7 @@ Debes tener instalado:
 
 ### Instalaciones
 
-Crear un entorno virtual, activarlo y luego instalar los requerimientos:
+Activar entorno virtual, activarlo y luego instalar los requerimientos:
 
 
 ```
