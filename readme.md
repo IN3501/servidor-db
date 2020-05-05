@@ -8,7 +8,7 @@ En la imagen **modelo_er.png** se encuentra el modelo entidad relacion de la bas
 
 Debes tener instalado: 
 * **Python3** (con pip)
-* **Entorno virtual**: no es necesario, pero es recomendado.
+* **Entorno virtual**
 
 
 ### Instalaciones
